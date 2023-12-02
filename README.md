@@ -1,6 +1,8 @@
-### Hi there 👋 :D
-Aspiring bioinformatician and machine learning engineer, 
-meandering my way through learning how to code and here to log the journey in all its glory. ✨😌
+### Hi there 👋😄
+👩🏻‍💻 Current focus on data engineering 
+👩🏻‍🏫 Aspiring to develop a tech stack for bioinformatics and machine learning engineering, 
+✍️ Meandering my way through learning all things code and here to log the journey
+
 <!--
 **GhostCat12/GhostCat12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
