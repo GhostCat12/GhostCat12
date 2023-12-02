@@ -1,6 +1,9 @@
 ### Hi there 👋😄
+
 👩🏻‍💻 Current focus on data engineering 
-👩🏻‍🏫 Aspiring to develop a tech stack for bioinformatics and machine learning engineering, 
+
+👩🏻‍🏫 Aspiring to develop a tech stack for bioinformatics and machine learning engineering
+
 ✍️ Meandering my way through learning all things code and here to log the journey
 
 <!--
