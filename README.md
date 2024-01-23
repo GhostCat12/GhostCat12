@@ -1,4 +1,4 @@
-### Hi there 👋😄
+### Hi! 👋😄
 
 👩🏻‍💻 Current focus on data engineering 
 
