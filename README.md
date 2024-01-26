@@ -1,6 +1,6 @@
 ### Hi! 👋😄
 
-👩🏻‍💻 Current focus on data engineering 
+👩🏻‍💻 Focussing on data engineering projects to be able to handle and manipulate big data
 
 👩🏻‍🏫 Aspiring to develop a tech stack for bioinformatics and machine learning engineering
 
